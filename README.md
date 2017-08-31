@@ -7,3 +7,8 @@
 *Date:* 2017-08-30
 
 *Language:* Ruby
+
+*Example:* 
+```
+cat testfile.txt | ruby find_the_point.rb
+```
